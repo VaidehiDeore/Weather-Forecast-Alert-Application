@@ -1,0 +1,17 @@
+{
+    "timestamp": "2026-05-08_22-50-34",
+    "city": "Pune",
+    "temperature": 39,
+    "humidity": 84,
+    "wind_speed": 42,
+    "rain_probability": 78,
+    "condition": "Thunderstorm",
+    "risk_level": "High",
+    "alerts": [
+        "\ud83d\udd25 Heat Alert: Temperature is above safe limit.",
+        "\ud83d\udca7 Humidity Alert: Humidity level is high.",
+        "\ud83c\udf2a Wind Alert: Strong wind expected.",
+        "\ud83c\udf27 Rain Alert: High chance of rain.",
+        "\u26c8 Storm Alert: Thunderstorm condition detected."
+    ]
+}

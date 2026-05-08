@@ -1,0 +1,2 @@
+timestamp,city,temperature,humidity,wind_speed,rain_probability,condition,risk_level,alerts
+2026-05-08_22-50-34,Pune,39,84,42,78,Thunderstorm,High,"['🔥 Heat Alert: Temperature is above safe limit.', '💧 Humidity Alert: Humidity level is high.', '🌪 Wind Alert: Strong wind expected.', '🌧 Rain Alert: High chance of rain.', '⛈ Storm Alert: Thunderstorm condition detected.']"

@@ -1,0 +1,2 @@
+timestamp,city,temperature,humidity,wind_speed,rain_probability,condition,risk_level,alerts
+2026-05-08_22-50-56,Pune,29.5,50,8.3,6,Live Weather Data,Low,['✅ Weather is safe. No severe alert.']
