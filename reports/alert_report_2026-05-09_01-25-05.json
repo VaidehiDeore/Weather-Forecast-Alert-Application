@@ -1,0 +1,13 @@
+{
+    "timestamp": "2026-05-09_01-25-05",
+    "city": "Pune",
+    "temperature": 27.9,
+    "humidity": 55,
+    "wind_speed": 5.9,
+    "rain_probability": 0,
+    "condition": "Live Weather Data",
+    "risk_level": "Low",
+    "alerts": [
+        "\u2705 Weather is safe. No severe alert."
+    ]
+}
