@@ -269,7 +269,27 @@ export default function HomePage() {
 
             <div className="relative z-10">
               <div className="flex justify-between items-start">
-                <h1 className="text-2xl font-bold">Good Morning, Vaidehi 👋</h1>
+                {
+                 (() => {
+                  const hour = new Date().getHours();
+
+                   let greeting = "Good Evening";
+
+                if (hour < 12) {
+                greeting = "Good Morning";
+                } else if (hour < 17) {
+                greeting = "Good Afternoon";
+                } else {
+                greeting = "Good Evening";
+                }
+
+                return (
+                <h1 className="text-2xl font-bold">
+                {greeting}, Vaidehi 👋
+                </h1>
+                );
+                })()
+       }
 
                 <button
                   onClick={() => setShowMap(true)}
